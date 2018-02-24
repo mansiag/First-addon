@@ -1,0 +1,1 @@
+document.body.style.border = "7px Solid Red";
